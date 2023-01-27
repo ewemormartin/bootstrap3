@@ -1,0 +1,36 @@
+main{
+    padding: 10px;
+    margin: auto;
+}
+
+.card-img-top{
+    max-width: 300px;
+    margin: auto;
+    border: 2px solid lightgray;
+    padding: 3px; 
+}
+
+article{
+    padding: 10px;
+}
+
+.card-header{
+    margin-bottom: 3px;
+}
+
+aside img{
+    border: 2px solid lightgray;
+}
+
+.felsorolas{
+    text-align: justify;
+}
+
+.felsorolas ul{
+    padding: 10px;
+}
+
+.felsorolas ul li{
+    padding: 3px;
+    list-style-type: decimal;
+}
